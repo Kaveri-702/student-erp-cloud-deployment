@@ -1,5 +1,5 @@
 # Student ERP – Student Registration System
-“Application source provided by CloudBlitz training. This repo documents my AWS deployment.”
+ >Application source provided by CloudBlitz training. This repo documents my AWS deployment.
 
 
 A full-stack student registration app (add, list and delete students), deployed on a cloud server.
